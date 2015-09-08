@@ -3,4 +3,4 @@
 	url = https://github.com/abuddenb/agu2015.git 
 [submodule "cics-monthly"]
 	path = cics-monthly
-	url = git@github.com:abuddenb/cics-monthly.git
+	url = https://github.com/abuddenb/cics-monthly.git
