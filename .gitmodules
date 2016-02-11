@@ -4,3 +4,6 @@
 [submodule "cics-monthly"]
 	path = cics-monthly
 	url = https://github.com/abuddenb/cics-monthly.git
+[submodule "gdas-presentation"]
+	path = gdas-presentation
+	url = https://github.com/abuddenb/gdas-presentation.git
