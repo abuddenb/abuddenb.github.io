@@ -7,3 +7,6 @@
 [submodule "gdas-presentation"]
 	path = gdas-presentation
 	url = https://github.com/abuddenb/gdas-presentation.git
+[submodule "docker-presentation"]
+	path = docker-presentation
+	url = https://github.com/abuddenb/docker-presentation.git
